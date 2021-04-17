@@ -1,10 +1,11 @@
 hfhdhgkhkjgjhfhgvnuyjhvgnffytrfkj
 <<<<<<< HEAD
-
-jhgfcgfdghfjg
-=======
 ujfkljlgfyf
+=======
 lhjgfg
 bbblaaa
+<<<<<<< HEAD
 >>>>>>> 443ec38762c49ea76e30529481bf70c08a758dfe
-whatever
+=======
+test 05
+>>>>>>> 7efe00551362bf74f82ebbedabfddcfdb2812dce
